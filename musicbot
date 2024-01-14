@@ -6,4 +6,6 @@ read token
 
 git clone https://$token@github.com/hdiiofficial/KaumHasrat
 
-bash start.sh
+cd KaumHasrat
+
+bash start
