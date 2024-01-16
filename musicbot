@@ -8,4 +8,4 @@ git clone https://$token@github.com/hdiiofficial/KaumHasrat
 
 cd KaumHasrat
 
-bash starts.sh
+bash music
