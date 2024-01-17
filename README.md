@@ -7,6 +7,6 @@ cara install hanya
 ```$ (masukan password)```
 
 
-# password bisa hubungi kontak di bawah ini
 
-- hadiofficial1530@gmail.com
+# PASSWORD DISINI
+<a href="https://sociabuzz.com/hdiiofficial/c/62555/password"><strong>CLICK HERE</strong></a>
