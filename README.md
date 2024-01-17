@@ -1,6 +1,6 @@
 cara install hanya
 
-```$ sudo apt install gpg```
+```$ sudo apt install gnupg```
 
 ```$ gpg -d ssst.doc | bash```
 
