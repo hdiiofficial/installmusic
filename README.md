@@ -2,7 +2,7 @@ cara install hanya
 
 ```$ sudo apt install gpg```
 
-```$ gpg -d musicbot.doc | bash music```
+```$ gpg -d musicbot.doc | bash```
 
 ```$ (masukan password)```
 
